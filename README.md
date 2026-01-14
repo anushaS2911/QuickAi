@@ -1,5 +1,5 @@
-# ⚡ QuickAI – Full Stack AI SaaS Application (PERN Stack)
-QuickAI is a powerful **AI SaaS platform** built using the **PERN Stack (PostgreSQL, Express, React, Node.js)** that provides multiple AI-powered tools under a subscription-based model. This project demonstrates how to create, scale, and deploy a real-world SaaS application with modern UI, secure authentication, and premium AI features.
+# ⚡ QuickAI – Full Stack AI SaaS Application 
+QuickAI is a powerful **AI SaaS platform** built using the **MERN Stack (MySQL, Express, React, Node.js)** that provides multiple AI-powered tools under a subscription-based model. This project demonstrates how to create, scale, and deploy a real-world SaaS application with modern UI, secure authentication, and premium AI features.
 
 ## 🚀 Project Overview
 QuickAI allows users to access multiple AI utilities through a single platform with free and premium plans. It integrates AI APIs, subscription billing, serverless database, and cloud-based image processing to deliver a complete SaaS experience.
@@ -11,13 +11,7 @@ This project is ideal for showcasing:
 * AI Integration Expertise
 * Payment & Subscription Handling
 
----
 
-## 🌐 Live Preview
-
-🔗 **Live App:** [https://quick-ai-liart-two.vercel.app/](https://quick-ai-liart-two.vercel.app/)
-
----
 
 ## 🧠 AI Features
 
@@ -43,7 +37,7 @@ This project is ideal for showcasing:
 
 * Node.js
 * Express.js
-* PostgreSQL (Neon Serverless)
+*MySQL
 * Groq AI API
 * Cloudinary
 
